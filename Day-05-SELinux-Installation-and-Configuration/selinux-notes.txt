@@ -1,0 +1,7 @@
+SELinux Modes:
+- Enforcing
+- Permissive
+- Disabled
+
+Verification Command:
+cat /etc/selinux/config
