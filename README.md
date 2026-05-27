@@ -13,6 +13,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 05 | SELinux Installation and Configuration | ✅ |
 | 06 | Linux Cron Job Automation | ✅ |
 | 07 | Linux SSH Authentication (Password-less Login) | ✅ |
+| 08 | Installed and configured Ansible using pip3 | ✅ |
 
 
 ## Topics Covered
@@ -38,6 +39,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-05-SELinux-Installation-and-Configuration/
 ├── Day-06-Create-a-Cron-Job/
 ├── Day-07-Linux-SSH-Authentication/
+├── Day-08-Installed-and-configured-Ansible/
 └── README.md
 ```
 
