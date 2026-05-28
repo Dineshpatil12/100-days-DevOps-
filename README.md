@@ -14,6 +14,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 06 | Linux Cron Job Automation | ✅ |
 | 07 | Linux SSH Authentication (Password-less Login) | ✅ |
 | 08 | Installed and configured Ansible using pip3 | ✅ |
+| 09 | MariaDB Troubleshooting | ✅ |
 
 
 ## Topics Covered
@@ -40,6 +41,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-06-Create-a-Cron-Job/
 ├── Day-07-Linux-SSH-Authentication/
 ├── Day-08-Installed-and-configured-Ansible/
+├── Day-09-MariaDB-Troubleshooting/
 └── README.md
 ```
 
