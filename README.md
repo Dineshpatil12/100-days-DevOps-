@@ -15,6 +15,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 07 | Linux SSH Authentication (Password-less Login) | ✅ |
 | 08 | Installed and configured Ansible using pip3 | ✅ |
 | 09 | MariaDB Troubleshooting | ✅ |
+| 10 | Linux Bash Scripts | ✅ |
 
 
 ## Topics Covered
@@ -42,6 +43,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-07-Linux-SSH-Authentication/
 ├── Day-08-Installed-and-configured-Ansible/
 ├── Day-09-MariaDB-Troubleshooting/
+├── Day-10-Linux-Bash-Scripts/
 └── README.md
 ```
 
