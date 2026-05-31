@@ -16,6 +16,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 08 | Installed and configured Ansible using pip3 | ✅ |
 | 09 | MariaDB Troubleshooting | ✅ |
 | 10 | Linux Bash Scripts | ✅ |
+| 11 | Install and Configure Apache Tomcat | ✅ |
 
 
 ## Topics Covered
@@ -44,6 +45,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-08-Installed-and-configured-Ansible/
 ├── Day-09-MariaDB-Troubleshooting/
 ├── Day-10-Linux-Bash-Scripts/
+├── Day-11-Install-and-Configure-Tomcat-Server/
 └── README.md
 ```
 
