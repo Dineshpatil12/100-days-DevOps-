@@ -17,6 +17,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 09 | MariaDB Troubleshooting | ✅ |
 | 10 | Linux Bash Scripts | ✅ |
 | 11 | Install and Configure Apache Tomcat | ✅ |
+| 12 | Linux Network Services | ✅ |
 
 
 ## Topics Covered
@@ -46,6 +47,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-09-MariaDB-Troubleshooting/
 ├── Day-10-Linux-Bash-Scripts/
 ├── Day-11-Install-and-Configure-Tomcat-Server/
+├── Day-12-Linux-Network-Services/
 └── README.md
 ```
 
