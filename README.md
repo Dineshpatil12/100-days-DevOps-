@@ -18,6 +18,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 10 | Linux Bash Scripts | ✅ |
 | 11 | Install and Configure Apache Tomcat | ✅ |
 | 12 | Linux Network Services | ✅ |
+| 13 | IPTables Installation and Configuration | ✅ |
 
 
 ## Topics Covered
@@ -48,6 +49,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-10-Linux-Bash-Scripts/
 ├── Day-11-Install-and-Configure-Tomcat-Server/
 ├── Day-12-Linux-Network-Services/
+├── Day-13-IPTables-Installation-and-Configuration/
 └── README.md
 ```
 
