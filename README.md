@@ -19,6 +19,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 11 | Install and Configure Apache Tomcat | ✅ |
 | 12 | Linux Network Services | ✅ |
 | 13 | IPTables Installation and Configuration | ✅ |
+| 14 | Linux Process Troubleshooting | ✅ |
 
 
 ## Topics Covered
@@ -50,6 +51,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-11-Install-and-Configure-Tomcat-Server/
 ├── Day-12-Linux-Network-Services/
 ├── Day-13-IPTables-Installation-and-Configuration/
+├── Day-14-Linux-Process-Troubleshooting
 └── README.md
 ```
 
