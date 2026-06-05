@@ -21,6 +21,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 13 | IPTables Installation and Configuration | ✅ |
 | 14 | Linux Process Troubleshooting | ✅ |
 | 15 | Setup SSL for Nginx | ✅ |
+| 16 | Install and Configure Nginx as a Load Balancer | ✅ |
 
 
 ## Topics Covered
@@ -54,6 +55,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-13-IPTables-Installation-and-Configuration/
 ├── Day-14-Linux-Process-Troubleshooting/
 ├── Day-15-Setup-SSL-for-Nginx/
+├── Day-16-Install-and-Configure-Nginx-as-Load-Balancer/
 └── README.md
 ```
 
