@@ -22,7 +22,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 14 | Linux Process Troubleshooting | ✅ |
 | 15 | Setup SSL for Nginx | ✅ |
 | 16 | Install and Configure Nginx as a Load Balancer | ✅ |
-
+| 17 | Install and Configure PostgreSQL | ✅ |
 
 ## Topics Covered
 
@@ -56,6 +56,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-14-Linux-Process-Troubleshooting/
 ├── Day-15-Setup-SSL-for-Nginx/
 ├── Day-16-Install-and-Configure-Nginx-as-Load-Balancer/
+├── Day-16-Install-and-Configure-PostgreSQL/
 └── README.md
 ```
 
