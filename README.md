@@ -25,6 +25,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 17 | Install and Configure PostgreSQL | ✅ |
 | 18 | Install and Configure MariaDB Server | ✅ |
 | 19 | Install and Configure Web Application | ✅ |
+| 20 | Configure Nginx + PHP-FPM Using Unix Sock | ✅ |
 
 ## Topics Covered
 
@@ -61,6 +62,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-16-Install-and-Configure-PostgreSQL/
 ├── Day-18-Install-and-Configure-MariaDB-Server/
 ├── Day-19-Install-and-Configure-Web-Application/
+├── Day-20-Configure-Nginx+PHP-FPM-Using-Unix-Sock/
 └── README.md
 ```
 
