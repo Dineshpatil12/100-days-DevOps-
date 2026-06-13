@@ -26,6 +26,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 18 | Install and Configure MariaDB Server | ✅ |
 | 19 | Install and Configure Web Application | ✅ |
 | 20 | Configure Nginx + PHP-FPM Using Unix Sock | ✅ |
+| 21 | Set Up Git Repository on Storage Server | ✅ |
 
 ## Topics Covered
 
@@ -63,6 +64,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-18-Install-and-Configure-MariaDB-Server/
 ├── Day-19-Install-and-Configure-Web-Application/
 ├── Day-20-Configure-Nginx+PHP-FPM-Using-Unix-Sock/
+├── Day-21-Set-Up-Git-Repository-on-Storage-Server/
 └── README.md
 ```
 
