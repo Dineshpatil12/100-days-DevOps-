@@ -28,6 +28,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 20 | Configure Nginx + PHP-FPM Using Unix Sock | ✅ |
 | 21 | Set Up Git Repository on Storage Server | ✅ |
 | 22 | Clone Git Repository on Storage Server | ✅ |
+| 23 | Fork a Git Repository | ✅ |
 
 ## Topics Covered
 
@@ -67,6 +68,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-20-Configure-Nginx+PHP-FPM-Using-Unix-Sock/
 ├── Day-21-Set-Up-Git-Repository-on-Storage-Server/
 ├── Day-22-Clone-Git-Repository-on-Storage-Server/
+├── Day-23-Fork-Git-Repository/
 └── README.md
 ```
 
