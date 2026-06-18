@@ -29,6 +29,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 21 | Set Up Git Repository on Storage Server | ✅ |
 | 22 | Clone Git Repository on Storage Server | ✅ |
 | 23 | Fork a Git Repository | ✅ |
+| 24 | Gut Create Branches | ✅ |
 
 ## Topics Covered
 
@@ -69,6 +70,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-21-Set-Up-Git-Repository-on-Storage-Server/
 ├── Day-22-Clone-Git-Repository-on-Storage-Server/
 ├── Day-23-Fork-Git-Repository/
+├── Day-24-Git-Create-Branches/
 └── README.md
 ```
 
