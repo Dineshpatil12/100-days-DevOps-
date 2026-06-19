@@ -30,6 +30,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 22 | Clone Git Repository on Storage Server | ✅ |
 | 23 | Fork a Git Repository | ✅ |
 | 24 | Gut Create Branches | ✅ |
+| 25 | Git Merge Branches | ✅ |
 
 ## Topics Covered
 
@@ -71,6 +72,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-22-Clone-Git-Repository-on-Storage-Server/
 ├── Day-23-Fork-Git-Repository/
 ├── Day-24-Git-Create-Branches/
+├── Day-25-Git-Merge-Branches/
 └── README.md
 ```
 
