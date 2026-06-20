@@ -31,6 +31,8 @@ This repository contains my daily DevOps and Linux learning journey.
 | 23 | Fork a Git Repository | ✅ |
 | 24 | Gut Create Branches | ✅ |
 | 25 | Git Merge Branches | ✅ |
+| 26 | Git Manage Remotes | ✅ |
+
 
 ## Topics Covered
 
@@ -73,6 +75,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-23-Fork-Git-Repository/
 ├── Day-24-Git-Create-Branches/
 ├── Day-25-Git-Merge-Branches/
+├── Day-26-Git-Manage-Remotes/
 └── README.md
 ```
 
