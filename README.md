@@ -32,7 +32,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 24 | Gut Create Branches | ✅ |
 | 25 | Git Merge Branches | ✅ |
 | 26 | Git Manage Remotes | ✅ |
-
+| 27 | Git Revert Some Changes | ✅ |
 
 ## Topics Covered
 
@@ -76,6 +76,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-24-Git-Create-Branches/
 ├── Day-25-Git-Merge-Branches/
 ├── Day-26-Git-Manage-Remotes/
+├── Day-27-Git-Revert-Some-Changes/
 └── README.md
 ```
 
