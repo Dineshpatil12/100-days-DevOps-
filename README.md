@@ -33,6 +33,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 25 | Git Merge Branches | ✅ |
 | 26 | Git Manage Remotes | ✅ |
 | 27 | Git Revert Some Changes | ✅ |
+| 28 | Git Cherry Pick | ✅ |
 
 ## Topics Covered
 
@@ -77,6 +78,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-25-Git-Merge-Branches/
 ├── Day-26-Git-Manage-Remotes/
 ├── Day-27-Git-Revert-Some-Changes/
+├── Day-28-Git-Cherry-Pick/
 └── README.md
 ```
 
