@@ -34,6 +34,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 26 | Git Manage Remotes | ✅ |
 | 27 | Git Revert Some Changes | ✅ |
 | 28 | Git Cherry Pick | ✅ |
+| 29 | Manage Git Pull Requests | ✅ |
 
 ## Topics Covered
 
@@ -79,6 +80,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-26-Git-Manage-Remotes/
 ├── Day-27-Git-Revert-Some-Changes/
 ├── Day-28-Git-Cherry-Pick/
+├── Day-29-Manage-Git-Pull-Requests/
 └── README.md
 ```
 
