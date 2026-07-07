@@ -35,6 +35,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 27 | Git Revert Some Changes | ✅ |
 | 28 | Git Cherry Pick | ✅ |
 | 29 | Manage Git Pull Requests | ✅ |
+| 30 | Git Hard Reset | ✅ |
 
 ## Topics Covered
 
@@ -81,6 +82,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-27-Git-Revert-Some-Changes/
 ├── Day-28-Git-Cherry-Pick/
 ├── Day-29-Manage-Git-Pull-Requests/
+├── Day-30-Git-Hard-Reset/
 └── README.md
 ```
 
