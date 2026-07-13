@@ -36,6 +36,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 28 | Git Cherry Pick | ✅ |
 | 29 | Manage Git Pull Requests | ✅ |
 | 30 | Git Hard Reset | ✅ |
+| 31 | Git Stash | ✅ |
 
 ## Topics Covered
 
@@ -83,6 +84,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-28-Git-Cherry-Pick/
 ├── Day-29-Manage-Git-Pull-Requests/
 ├── Day-30-Git-Hard-Reset/
+├── Day-31-Git-Stash/
 └── README.md
 ```
 
