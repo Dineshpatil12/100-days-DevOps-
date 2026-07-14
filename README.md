@@ -37,6 +37,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 29 | Manage Git Pull Requests | ✅ |
 | 30 | Git Hard Reset | ✅ |
 | 31 | Git Stash | ✅ |
+| 32 | Git Rebase | ✅ |
 
 ## Topics Covered
 
@@ -85,6 +86,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-29-Manage-Git-Pull-Requests/
 ├── Day-30-Git-Hard-Reset/
 ├── Day-31-Git-Stash/
+├── Day-32-Git-Rebase/
 └── README.md
 ```
 
