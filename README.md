@@ -38,6 +38,7 @@ This repository contains my daily DevOps and Linux learning journey.
 | 30 | Git Hard Reset | ✅ |
 | 31 | Git Stash | ✅ |
 | 32 | Git Rebase | ✅ |
+| 33 | Resolve Git Merge Conflicts | ✅ |
 
 ## Topics Covered
 
@@ -87,6 +88,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-30-Git-Hard-Reset/
 ├── Day-31-Git-Stash/
 ├── Day-32-Git-Rebase/
+├── Day-33-Resolve-Git-Merge-Conflicts/
 └── README.md
 ```
 
