@@ -72,7 +72,7 @@ This repository contains my daily DevOps and Linux learning journey.
 ├── Day-14-Linux-Process-Troubleshooting/
 ├── Day-15-Setup-SSL-for-Nginx/
 ├── Day-16-Install-and-Configure-Nginx-as-Load-Balancer/
-├── Day-16-Install-and-Configure-PostgreSQL/
+├── Day-17-Install-and-Configure-PostgreSQL/
 ├── Day-18-Install-and-Configure-MariaDB-Server/
 ├── Day-19-Install-and-Configure-Web-Application/
 ├── Day-20-Configure-Nginx+PHP-FPM-Using-Unix-Sock/
